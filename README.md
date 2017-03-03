@@ -1,3 +1,10 @@
+Young Coders: Outside In
+========================
+
+A fork of the [original Young Coders](https://github.com/mechanicalgirl/young-coders-tutorial)
+project to involve students from [Outside In](http://outsidein.org/) at PyCon 2017,
+Portland, OR, May 21.
+
 Young Coder class materials
 =====================
 
